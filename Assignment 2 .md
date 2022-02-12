@@ -1,4 +1,4 @@
-### Course Title: Software Testing, Reliability, and Quality
+## Course Title: Software Testing, Reliability, and Quality
 ### Course Code: SENG 438
 ### Assignment #: 1
 
