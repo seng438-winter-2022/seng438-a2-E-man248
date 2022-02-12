@@ -2,14 +2,16 @@
 #### Course Code: SENG 438
 #### Assignment #: 1
 
+### Group Number: 31
+### Submission Date: 28/01/2022
+
 ### Student Names:
 #### Aashik Ilangovan (30085993)
 #### Emmanuel Omari-Osei (30092729)
 #### Gibran Akmal (30094918)
 #### Priyanka Gautam (30091244)
 
-### Group Number: 31
-### Submission Date: 28/01/2022
+
 
 ### Introduction 
 
