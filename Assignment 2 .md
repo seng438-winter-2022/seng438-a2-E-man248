@@ -1,6 +1,6 @@
 ## Course Title: Software Testing, Reliability, and Quality
-### Course Code: SENG 438
-### Assignment #: 1
+#### Course Code: SENG 438
+#### Assignment #: 1
 
 ### Student Names:
 #### Aashik Ilangovan (30085993)
